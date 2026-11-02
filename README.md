@@ -104,6 +104,7 @@ flowchart TD
 ## Contribucion
 
 Las mejoras y sugerencias para el proyecto son bienvenidas.
+Consulta nuestra [Guía de contribución](CONTRIBUTING.md) para conocer las recomendaciones para colaborar con el proyecto.
 
 1. Identificar oportunidades de mejora.
 2. Reportar errores mediante Issues en GitHub.
